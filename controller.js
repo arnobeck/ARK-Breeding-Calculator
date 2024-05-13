@@ -907,6 +907,19 @@ var breedingController=angular.module('breedingControllers', []).controller('bre
 			weight: 350.0
 		},
 
+		Fasolasuchus: { //
+			birthtype: "Incubation",
+			type: "Carnivore",
+			basefoodrate: 0.001543,
+			babyfoodrate: 25.5,
+			extrababyfoodrate: 20.0,
+			agespeed: 0.000003,
+			agespeedmult: 0.5,
+			eggspeed: 0.005556,
+			eggspeedmult: 1.0,
+			weight: 450.0
+		},
+		
 		Featherlight: { //
 			birthtype: "Incubation",
 			type: "Carnivore",
