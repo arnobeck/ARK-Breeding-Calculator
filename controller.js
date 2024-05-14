@@ -1028,7 +1028,7 @@ var breedingController=angular.module('breedingControllers', []).controller('bre
 		Gigantoraptor: { //
 			birthtype: "Incubation",
 			type: "Omnivore",
-			basefoodrate: 0.002314
+			basefoodrate: 0.002314,
 			babyfoodrate: 25.5,
 			extrababyfoodrate: 20.0,
 			agespeed: 0.000003,
