@@ -734,7 +734,7 @@ var breedingController=angular.module('breedingControllers', []).controller('bre
 
 		Cosmo: { //
 			birthtype: "Incubation",
-			type: "Sinomacrops",
+			type: "Carnivore",
 			basefoodrate: 0.000868,
 			babyfoodrate: 25.5,
 			extrababyfoodrate: 20.0,
